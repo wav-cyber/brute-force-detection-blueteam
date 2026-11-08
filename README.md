@@ -27,7 +27,7 @@ O objetivo é demonstrar **metodologia e raciocínio técnico** de detecção, n
 3. [Como a força bruta aparece nos logs](#-como-a-força-bruta-aparece-nos-logs)
 4. [Engenharia de detecção no SIEM](#-engenharia-de-detecção-no-siem)
 5. [Redução de falsos positivos (tuning)](#-redução-de-falsos-positivos-tuning)
-6. [Investigação e Resposta — Playbook](#-investigação-e-resposta--playbook)
+6. [Investigação e Resposta - Playbook](#-investigação-e-resposta--playbook)
 7. [Análise de Causa Raiz (RCA)](#-análise-de-causa-raiz-rca)
 8. [Mapeamento MITRE ATT&CK e Kill Chain](#-mapeamento-mitre-attck-e-kill-chain)
 9. [Mitigações](#-mitigações)
