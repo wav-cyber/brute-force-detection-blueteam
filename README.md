@@ -1,4 +1,4 @@
-# 🛡️ Detecção e Resposta a Ataques de Força Bruta — Perspectiva Blue Team / SOC
+# 🛡️ Detecção e Resposta a Ataques de Força Bruta | Perspectiva Blue Team / SOC
 
 > Documentação técnica do desafio **DIO**, abordado pela ótica **defensiva**: como ataques de força bruta se manifestam em logs, como são **detectados e tunados em SIEM**, investigados (RCA) e mitigados em um ambiente de SOC real.
 
