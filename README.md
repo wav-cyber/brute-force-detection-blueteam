@@ -1,6 +1,8 @@
 # 🛡️ Detecção e Resposta a Ataques de Força Bruta | Perspectiva Blue Team / SOC
 
-> Documentação técnica do desafio **DIO**, abordado pela ótica **defensiva**: como ataques de força bruta se manifestam em logs, como são **detectados e tunados em SIEM**, investigados (RCA) e mitigados em um ambiente de SOC real.
+> Documentação técnica do desafio **DIO**, abordado pela ótica **defensiva**: como ataques de força bruta se manifestam em logs, como são **detectados e tunados em SIEM**, investigados (RCA) e mitigados em um ambiente de SOC real. 
+Material de estudo. Autor: Welington AV.
+Projeto com fins educacionais do curso Cibersegurança do Zero a prática - Santander.
 
 ![Blue Team](https://img.shields.io/badge/Blue%20Team-SOC-1f6feb)
 ![SIEM](https://img.shields.io/badge/SIEM-Detection%20Engineering-8957e5)
